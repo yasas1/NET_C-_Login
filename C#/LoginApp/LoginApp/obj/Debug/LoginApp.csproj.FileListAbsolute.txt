@@ -1,0 +1,11 @@
+C:\Users\Dell\source\C#\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\Dell\source\C#\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\Dell\source\C#\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\Dell\source\C#\LoginApp\LoginApp\obj\Debug\LoginApp.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\C#\LoginApp\LoginApp\obj\Debug\LoginApp.FormLogin.resources
+C:\Users\Dell\source\C#\LoginApp\LoginApp\obj\Debug\LoginApp.FormMain.resources
+C:\Users\Dell\source\C#\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\Dell\source\C#\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.Cache
+C:\Users\Dell\source\C#\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C#\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\Dell\source\C#\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
